@@ -7,63 +7,7 @@ In this project, you will visualize and make calculations from medical examinati
 The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. You will use the dataset to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 
 File name: medical_examination.csv
-<style>
-  _ {
-    text-shadow: none !important;
-  }
-  _, :after, :before {
-    border: 0 solid #e5e7eb;
-    box-sizing: border-box;
-  }
-  td, th {
-    font-size: 1rem;
-    font-weight: 400;
-    margin: 0 0 1.2rem;
-    color: #fff;
-  }
-  table {
-    display: inline-block;
-    overflow: auto;
-    border-collapse: collapse;
-    border-color: inherit;
-    text-indent: 0;
-    background-color: #303030;
-  }
-  table thead {
-    border-color: inherit;
-    display: table-header-group;
-    vertical-align: middle;
-  }
-  table td, table th {
-    border: 1px solid #666666 !important;
-    padding: 6px 13px;
-    text-align: center;
-  }
-  table th {
-    font-weight: 700;
-  }
-  table tbody tr:nth-of-type(odd) {
-    background-color: #404040;
-  }
-  code {
-    white-space: break-spaces;
-    background-color: #404040;
-    border-radius: 0;
-    color: #ccc;
-    font-family: monospace;
-    font-size: 90%;
-    overflow-wrap: anywhere;
-    padding: 1px 4px;
-    font-feature-settings: normal;
-    font-variation-settings: normal;
-  }
-  :not(pre)>code {
-    border: 1px solid #999;
-  }
-  table code {
-    white-space: nowrap;
-  }
-</style>
+
 <table>
   <thead>
     <tr>
